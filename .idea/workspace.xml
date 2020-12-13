@@ -23,7 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02b21889-9fb3-4d75-8ba3-76d39bcbf643" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cucumberFW5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cucumberFW5.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +43,18 @@
     </option>
   </component>
   <component name="ProjectId" id="1kyYvFuWuZz16vdYmhn83WHoxms" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -73,5 +80,27 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1232" height="254" key="GridCell.Tab.0.bottom" timestamp="1606674626780">
+      <screen x="-178" y="-1080" width="2560" height="1040" />
+    </state>
+    <state width="1232" height="254" key="GridCell.Tab.0.bottom/0.0.1504.963/-178.-1080.2560.1040@-178.-1080.2560.1040" timestamp="1606674626780" />
+    <state width="1232" height="254" key="GridCell.Tab.0.center" timestamp="1606674626780">
+      <screen x="-178" y="-1080" width="2560" height="1040" />
+    </state>
+    <state width="1232" height="254" key="GridCell.Tab.0.center/0.0.1504.963/-178.-1080.2560.1040@-178.-1080.2560.1040" timestamp="1606674626780" />
+    <state width="1232" height="254" key="GridCell.Tab.0.left" timestamp="1606674626780">
+      <screen x="-178" y="-1080" width="2560" height="1040" />
+    </state>
+    <state width="1232" height="254" key="GridCell.Tab.0.left/0.0.1504.963/-178.-1080.2560.1040@-178.-1080.2560.1040" timestamp="1606674626780" />
+    <state width="1232" height="254" key="GridCell.Tab.0.right" timestamp="1606674626780">
+      <screen x="-178" y="-1080" width="2560" height="1040" />
+    </state>
+    <state width="1232" height="254" key="GridCell.Tab.0.right/0.0.1504.963/-178.-1080.2560.1040@-178.-1080.2560.1040" timestamp="1606674626780" />
   </component>
 </project>
